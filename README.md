@@ -38,12 +38,9 @@
 
 ---
 
-### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadarsh08-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131b2e" alt="Aadarsh's GitHub Stats" />
-</div>
-
----
-<div align="center">
+  <h3><em>"Talk is cheap. Show me the code."</em></h3>
+  <p>— Linus Torvalds</p>
+  <br>
   <i>⭐ Feel free to explore my repositories and connect if you want to collaborate on tech or security projects!</i>
 </div>
